@@ -10,7 +10,7 @@ import { RouterLink, RouterView } from 'vue-router'
       <HelloWorld msg="You did it!" />
 
       <nav>
-        <RouterLink to="/">Accueil</RouterLink>
+        <RouterLink to="/">Accueilkfjgkjg</RouterLink>
         
       </nav>
         <RouterView />
